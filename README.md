@@ -38,7 +38,7 @@ Struktur direktori untuk gambar screenshot halaman aplikasi:
 
 ## d. Link Hosting
 Aplikasi dapat diakses dengan URL berikut:
-[URL Aplikasi:](https://tubes-siakad-ifb2024-5520124052-muhammadrafiabdu-production.up.railway.app)
+- **URL Aplikasi:** [https://tubes-siakad-ifb2024-5520124052-muhammadrafiabdu-production.up.railway.app](https://tubes-siakad-ifb2024-5520124052-muhammadrafiabdu-production.up.railway.app)
 ## e. Akun Untuk Tes
 Role admin:
 admin@gmail.com
